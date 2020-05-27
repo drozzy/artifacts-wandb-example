@@ -1,0 +1,11 @@
+name: artifacts_wandb_example
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.7
+  - jupyterlab
+  - pip
+  - pip:    
+    - "-e git+https://github.com/wandb/client.git@pilot/artifacts#egg=wandb"
