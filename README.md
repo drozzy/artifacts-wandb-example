@@ -15,7 +15,7 @@ Run:
 
     jupyter notebook
 
-and replace the "drozzy" with your username.
+and open the `create_artifact_example.ipynb` notebook. Replace "drozzy" in `entity='drozzy'` with your wandb username.
 
 
 
