@@ -1,7 +1,7 @@
 # Weights and Biases Artifacts Example
 
 You can see the accompanying project on Weights and Biases website here:
-https://app.wandb.ai/drozzy/artifacts-wandb-example
+https://app.wandb.ai/drozzy/proj_sample
 
 ## Installation:
 
